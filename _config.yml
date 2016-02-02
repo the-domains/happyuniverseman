@@ -1,7 +1,7 @@
 name: HappyUniverseMan
 favicon: null
-layout_spectrum: 0.994849982438609
-typography_spectrum: 0.8962514316663146
+layout_spectrum: 0.25462
+typography_spectrum: 0.94954
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.27517818030901253
-  lightness: 0.5592549904249609
-  saturation: 0.249749741749838
-  rhythmicContrast: 0.6659302429761738
+    - '#ffffff'
+    - '#938d2d'
+    - '#a3b2b5'
+    - '#d2d9db'
+    - '#cac89b'
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
