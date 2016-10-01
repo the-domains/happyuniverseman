@@ -1,20 +1,4 @@
-name: Happy Universe Man
-favicon: null
-layout_spectrum: 0.99076
 typography_spectrum: 0.94954
-title: Happy Universe Man
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,26 @@ color:
   lightness: 0.625
   saturation: 0.625
   rhythmicContrast: 0.75
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99076
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Jasen
+  email: web@happyuniverseman.com
+  url: happyuniverseman.com
+name: Happy Universe Man
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Happy Universe Man
+description: for a happy heart and a peaceful mind
 purpose: []
