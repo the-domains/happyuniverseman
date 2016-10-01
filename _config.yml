@@ -24,12 +24,15 @@ author:
   name: Jasen
   email: web@happyuniverseman.com
   url: happyuniverseman.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/41943718-9080-4f19-b0b3-80ffc5b7ea4b.jpg
 name: Happy Universe Man
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fb119c5-80ea-42c1-b93a-011891a4f33f.jpg
 title: Happy Universe Man
 description: for a happy heart and a peaceful mind
 purpose: []
